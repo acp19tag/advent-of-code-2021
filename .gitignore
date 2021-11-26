@@ -1,0 +1,5 @@
+# pyc file
+*.pyc
+
+# jupyter notebook checkpoints
+*/.ipynb_checkpoints/
